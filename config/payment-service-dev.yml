@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/ecommdb   # changed from mysql → localhost
     username: root
-    password: A9861@wini#
+    password: 2204
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
