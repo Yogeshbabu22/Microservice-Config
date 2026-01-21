@@ -4,9 +4,9 @@ spring:
     name: cart-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/kodeecom   # changed from mysql → localhost
+    url: jdbc:mysql://localhost:3306/ecommdb   # changed from mysql → localhost
     username: root
-    password: Nikhil@123
+    password: 2204
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
