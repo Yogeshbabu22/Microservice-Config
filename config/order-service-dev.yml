@@ -3,9 +3,9 @@ spring:
     name: order-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/kodeecom
+    url: jdbc:mysql://localhost:3306/ecommdb
     username: root
-    password: Nikhil@123
+    password: 2204
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
